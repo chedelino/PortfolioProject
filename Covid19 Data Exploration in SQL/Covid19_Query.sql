@@ -6,7 +6,7 @@
 -- Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 
--- Quick look of the entire Dataset
+-- Quick inspection of the entire Dataset
 
 SELECT*
 FROM PortfolioProject..CovidDeaths AS dt
@@ -32,7 +32,7 @@ SELECT
 Location, MAX(cast(total_deaths AS INT)) AS TotalDeathCounts
 FROM PortfolioProject.dbo.CovidDeaths
 WHERE location like '%Haiti%'
-GROUP BY location;
+GROUP BY location
 
 
 
@@ -160,23 +160,5 @@ WHERE deat.location  LIKE '%Haiti%'
 
 SELECT *
 FROM PercentPopulationVaccinated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
