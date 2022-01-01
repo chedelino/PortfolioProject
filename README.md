@@ -10,3 +10,10 @@ Feel free to contact me on [Linkedin](https://www.linkedin.com/in/cherubin-delin
 ### 1- [Covid19 Data Exploration in SQL](https://github.com/chedelino/PortfolioProject/tree/main/Covid19%20Data%20Exploration%20in%20SQL)
 
 Drawing on the Our World in Data organization's Covid19 dataset, this project provides an overview of the scope of the Covid19 in Haiti. The results shed light on both the total cases, total deaths, death percentage, infection rate and the percentage of vaccinated people.
+
+
+
+### 2- [Nashville_Housing Data Cleaning](https://github.com/chedelino/PortfolioProject/tree/main/Nashville_Housing%20Data%20Cleaning)
+
+Drawing on the Our World in Data organization's Covid19 dataset, t
+
