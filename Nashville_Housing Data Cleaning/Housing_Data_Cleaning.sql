@@ -2,7 +2,7 @@
 
 -- In this Project, I use some of the most common techniques data cleaning techniques in SQL.
 
--- Skills used: Joins, CTE's, Converting Data Types, Remove duplicates, CASE, PARSENAME, SUBSTRING, PARTITION BY 
+-- Skills used: Joins, CTE's, Converting Data Types, Remove duplicates, CASE WHEN, PARSENAME, SUBSTRING, PARTITION BY 
 
 
 -- Quick inspection of the entire dataset
