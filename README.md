@@ -15,5 +15,9 @@ Drawing on the Our World in Data organization's Covid19 dataset, this project pr
 
 ### 2- [Nashville_Housing Data Cleaning](https://github.com/chedelino/PortfolioProject/tree/main/Nashville_Housing%20Data%20Cleaning)
 
-Drawing on the Our World in Data organization's Covid19 dataset, t
+Nothing helps to boost a decision-making process like clean data.
+Inaccurate data can be dangerous, as it leads to false conclusions, making even the most sophisticated algorithm fail. 
+
+That's why data cleaning is so important because it removes incorrect, wrongly formatted, and incomplete data within a dataset. 
+In this project, I will be practicing some of the most common data cleaning techniques in SQL. 
 
