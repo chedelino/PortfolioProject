@@ -25,3 +25,5 @@ That's why data cleaning is so important because it removes incorrect, wrongly f
 ### 3- [Covid19 Dashboard in Tableau](https://github.com/chedelino/PortfolioProject/tree/main/Covid19%20Dashboard)
 
 Using data from my previous project [Covid19 Data Exploration in SQL](https://github.com/chedelino/PortfolioProject/tree/main/Covid19%20Data%20Exploration%20in%20SQL), this dashboard helps us get a clear idea of what the information found means, and provides an accessible way to see and understand the patterns in the data by using visual elements such as charts, graphs, and maps.
+
+View dashboard in [Tableau Public](https://public.tableau.com/views/Covid19_Dashboard_16413503389070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
