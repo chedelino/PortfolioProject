@@ -20,3 +20,6 @@ Inaccurate data can be dangerous, as it leads to false conclusions, making even 
 
 That's why data cleaning is so important because it removes incorrect, wrongly formatted, and incomplete data within a dataset. In this project, I will be practicing some of the most common data cleaning techniques in SQL. 
 
+
+
+### 3- [Covid19 Dashboard in Tableau](https://github.com/chedelino/PortfolioProject/tree/main/Covid19%20Dashboard)
