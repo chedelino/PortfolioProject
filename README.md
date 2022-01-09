@@ -28,4 +28,4 @@ Using data from my previous project [Covid19 Data Exploration in SQL](https://gi
 
 View dashboard in [Tableau Public](https://public.tableau.com/views/Covid19_Dashboard_16413503389070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-<img src="Covid19_Dashboard/dashboard.jpg" width="500">
+<img src="Covid19_Dashboard/dashboard.png" width="500">
