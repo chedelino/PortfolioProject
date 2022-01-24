@@ -29,3 +29,10 @@ Using data from my previous project [Covid19 Data Exploration in SQL](https://gi
 View dashboard in [Tableau Public](https://public.tableau.com/views/Covid19_Dashboard_16413503389070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Covid19%20Dashboard/dashboard.png" width="500">
+
+
+### 4- [Jobpaw Web Scraping](https://github.com/chedelino/PortfolioProject/tree/main/Jobpaw%20Web%20Scraping)
+
+In this project, I extract data from the job search and career opportunities website [Jobpaw](https://www.jobpaw.com/pont/) and save the collected data in a csv file. The data present the company, job title, field and deadline of all job offers published on the website from january 2022 to september 2010.
+
+
