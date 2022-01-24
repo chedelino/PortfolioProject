@@ -28,7 +28,7 @@ Using data from my previous project [Covid19 Data Exploration in SQL](https://gi
 
 View dashboard in [Tableau Public](https://public.tableau.com/views/Covid19_Dashboard_16413503389070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-<img src="https://github.com/chedelino/PortfolioProject/blob/main/Covid19%20Dashboard/dashboard.png" width="500">
+<img src="https://github.com/chedelino/PortfolioProject/blob/main/Covid19%20Dashboard/covid19_dashboard.png" width="500">
 
 
 ### 4- [Jobpaw Web Scraping](https://github.com/chedelino/PortfolioProject/tree/main/Jobpaw%20Web%20Scraping)
