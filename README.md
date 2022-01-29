@@ -36,3 +36,7 @@ View dashboard in [Tableau Public](https://public.tableau.com/views/Covid19_Dash
 In this project, I extract data from the job search and career opportunities website [Jobpaw](https://www.jobpaw.com/pont/) and save the collected data in a csv file. The data present the company, job title, field and deadline of all job offers published on the website from january 2022 to september 2010.
 
 
+### 5- [Movie Correlation & Regression Analysis](https://github.com/chedelino/PortfolioProject/tree/main/Movies%20Correlation%20%26%20Regression%20Analysis)
+
+Using three decades of movies data, in this project, I try to understand which variables does indeed have an impact on the Gross revenue of the movies.
+
