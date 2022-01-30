@@ -38,7 +38,7 @@ In this project, I extract data from the job search and career opportunities web
 
 ### 5- [Movie Correlation & Regression Analysis](https://github.com/chedelino/PortfolioProject/tree/main/Movies%20Correlation%20%26%20Regression%20Analysis)
 
-Using three decades of movies data, in this project, I try to understand which variables does indeed have an impact on the Gross revenue of the movies.
+As we are living in the era of large amount data, techniques such as regression analysis and correlation test can be very, because they allow us to understand relationships amoung variables within a dataset. Using three decades of movies data, in this project, I try to understand which variables does indeed have an impact on the Gross revenue of the movies.
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/Correlation_matrix.png" width="300"> <img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/regplot.png" width="300">
 
