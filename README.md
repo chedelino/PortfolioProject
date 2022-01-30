@@ -40,5 +40,5 @@ In this project, I extract data from the job search and career opportunities web
 
 Using three decades of movies data, in this project, I try to understand which variables does indeed have an impact on the Gross revenue of the movies.
 
-<img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/Correlation_matrix.png" width="300"> <img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/regplot.png" width="300">
+<img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/Correlation_matrix.png" width="300"> <img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/regplot.png" width="350">
 
