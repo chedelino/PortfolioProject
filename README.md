@@ -33,7 +33,7 @@ View dashboard in [Tableau Public](https://public.tableau.com/views/Covid19_Dash
 
 ### 4- [Jobpaw Web Scraping](https://github.com/chedelino/PortfolioProject/tree/main/Jobpaw%20Web%20Scraping)
 
-In this project, I extract data from the job search and career opportunities website [Jobpaw](https://www.jobpaw.com/pont/) and save the collected data in a csv file. The data present the company, job title, field and deadline of all job offers published on the website from january 2022 to september 2010.
+In this project, I extract data from the job search and career opportunities website [Jobpaw](https://www.jobpaw.com/pont/) and save the collected data in a csv file. The data present the company, job title, field and deadline of all job offers published on the website from september 2010 to january 2022.
 
 
 ### 5- [Movie Correlation & Regression Analysis](https://github.com/chedelino/PortfolioProject/tree/main/Movies%20Correlation%20%26%20Regression%20Analysis)
