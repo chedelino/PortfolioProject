@@ -42,3 +42,7 @@ Regression analysis and correlation tests are very helpful nowadays, as they hel
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/Correlation_matrix.png" width="300"> <img src="https://github.com/chedelino/PortfolioProject/blob/main/Movies%20Correlation%20%26%20Regression%20Analysis/regplot.png" width="300">
 
+
+### 6- [Financial Reports in PowerBI](https://github.com/chedelino/PortfolioProject/tree/main/Financial%20Reports%20in%20PowerBI)
+
+
