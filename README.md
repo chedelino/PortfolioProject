@@ -51,4 +51,4 @@ I also created a report comparing the budget, forecast and actual expenses of th
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/Microsoft%20Financial%20Statements/Balance_Sheet.png" width="500">
 
-<img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/IT%20Spend%20Report/Headlines.pngheet.png" width="500">
+<img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/IT%20Spend%20Report/Headlines.png" width="500">
