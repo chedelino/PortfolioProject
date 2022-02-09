@@ -26,7 +26,7 @@ That's why data cleaning is so important because it removes incorrect, wrongly f
 
 Using data from my previous project [Covid19 Data Exploration in SQL](https://github.com/chedelino/PortfolioProject/tree/main/Covid19%20Data%20Exploration%20in%20SQL), this dashboard helps us get a clear idea of what the information found means, and provides an accessible way to see and understand the patterns in the data by using visual elements such as charts, graphs, and maps.
 
-View dashboard in [Tableau Public](https://public.tableau.com/views/Covid19_Dashboard_16413503389070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[View dashboard in Tableau Public](https://public.tableau.com/views/Covid19_Dashboard_16413503389070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Covid19%20Dashboard/covid19_dashboard.png" width="500">
 
@@ -48,7 +48,7 @@ Regression analysis and correlation tests are very helpful nowadays, as they hel
 Using publicly available Microsoft financial statement data, in this project I created an interactive dashboard, presenting both the Balance Sheet and the Income Statement of Microsoft from 2021 to 2016. 
 [View dashboard in Power BI](https://app.powerbi.com/view?r=eyJrIjoiODgxZWIzMjktZDBlNi00NDcwLTg1MDUtNDRjYzc3NWFiY2ZhIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9&pageName=ReportSection).
 
-I also created a report comparing the budget, forecast and actual expenses of the IT department of a global company. View report in [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjQ4YTk4OTUtMzc3Mi00NmE4LTljYTQtYTYxZTRkZTZhYmIyIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9).
+I also created a report comparing the budget, forecast and actual expenses of the IT department of a global company. [View report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjQ4YTk4OTUtMzc3Mi00NmE4LTljYTQtYTYxZTRkZTZhYmIyIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9).
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/Microsoft%20Financial%20Statements/Balance_Sheet.png" width="500"> 
 
