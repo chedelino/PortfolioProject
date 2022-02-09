@@ -53,4 +53,5 @@ I also created a report comparing the budget, forecast and actual expenses of th
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/IT%20Spend%20Report/Headlines.png" width="500">
 
-<iframe title="Reports_copy" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmMwMmE5Y2EtMzFiMi00YmJkLTk4YWYtOTJjMGFhMDA1YmRhIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+
+img src="https://app.powerbi.com/view?r=eyJrIjoiZmMwMmE5Y2EtMzFiMi00YmJkLTk4YWYtOTJjMGFhMDA1YmRhIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9" width="500">
