@@ -50,7 +50,7 @@ View dashboard in [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODgxZWIzMjkt
 
 I also created a report comparing the budget, forecast and actual expenses of the IT department of a global company. View report in [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjQ4YTk4OTUtMzc3Mi00NmE4LTljYTQtYTYxZTRkZTZhYmIyIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9).
 
-<img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/Microsoft%20Financial%20Statements/Balance_Sheet.png" width="300"> 
+<img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/Microsoft%20Financial%20Statements/Balance_Sheet.png" width="500"> 
 
-<img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/IT%20Spend%20Report/Headlines.png" width="300">
+<img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/IT%20Spend%20Report/Headlines.png" width="500">
 
