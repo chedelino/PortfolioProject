@@ -48,9 +48,9 @@ Regression analysis and correlation tests are very helpful nowadays, as they hel
 Using publicly available Microsoft financial statement data, in this project I created an interactive dashboard, presenting both the Balance Sheet and the Income Statement of Microsoft from 2021 to 2016. 
 [View dashboard in Power BI](https://app.powerbi.com/view?r=eyJrIjoiODgxZWIzMjktZDBlNi00NDcwLTg1MDUtNDRjYzc3NWFiY2ZhIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9&pageName=ReportSection).
 
-I also created a report comparing the budget, forecast and actual expenses of the IT department of a global company. [View report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjQ4YTk4OTUtMzc3Mi00NmE4LTljYTQtYTYxZTRkZTZhYmIyIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9).
-
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/Microsoft%20Financial%20Statements/Balance_Sheet.png" width="500"> 
+
+I also created a report comparing the budget, forecast and actual expenses of the IT department of a global company. [View report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjQ4YTk4OTUtMzc3Mi00NmE4LTljYTQtYTYxZTRkZTZhYmIyIiwidCI6ImU2MDFiOTM3LTA0YmUtNGYzMi04MDU5LTk2OGE0NzgwYjQ5ZSIsImMiOjJ9).
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/IT%20Spend%20Report/Headlines.png" width="500">
 
