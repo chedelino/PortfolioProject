@@ -57,6 +57,5 @@ I also created a report comparing the budget, forecast and actual expenses of th
 
 ### 7- [Customer Logistic Regression](https://github.com/chedelino/PortfolioProject/tree/main/Customer%20Logistic%20Regression)
 
-This project shows how to create a simple binary choice model, interpret it, and use it to make predictions about customer behavior. 
-
+This project is a simple binary choice model used to make predictions about customer buying behavior based on their historical transaction data. 
 
