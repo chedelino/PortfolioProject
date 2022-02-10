@@ -1,0 +1,92 @@
+---
+title: "Customer logistic Regression"
+---
+
+```{r}
+library("xtable") # processing of regression output
+library("knitr") # used for report compilation and table display
+library("ggplot2") # very popular plotting library ggplot2
+library("ggthemes") # themes for ggplot2
+library("caret") # confusion matrix
+library("pROC") # confusion matrix
+```
+
+
+
+## Quick look in the data
+
+```{r}
+Customerdata <- read.csv(file = "Customerdata.csv",row.names=1)
+kable(head(Customerdata,5),row.names = TRUE)
+```
+
+
+## Naive model
+
+```{r }
+model <- lm(data=Customerdata, Purchase ~ Recency) # note, lm() automatically includes intercept
+
+# coef(model)[1] is beta0
+# coef(model)[2] is beta1
+
+p <- ggplot(Customerdata, aes(Recency, Purchase)) + 
+  geom_point(alpha=0.3) + # draws points
+  theme_bw() # changes visual theme of the plot to make the look cleaner
+
+p + geom_abline(intercept = coef(model)[1], # setting intercept of the line based on beta0
+                slope = coef(model)[2]) + # setting slope of the line based on beta1
+  # annotating
+  annotate(label = sprintf("y = %.5f + %.5f x\nR² = %.3f", coef(model)[1],coef(model)[2],  summary(model)$r.squared), geom = "text", x = 75, y = 0.6, size = 4)
+
+```
+
+ 
+
+## A better choice model -- Logit
+
+```{r echo=TRUE}
+model <- glm(Purchase~Recency+Frequency+Monetary, data=Customerdata, family = "binomial")
+output <- cbind(coef(summary(model))[, 1:4],exp(coef(model)))
+colnames(output) <- c("beta","SE","z val.","Pr(>|z|)",'exp(beta)')
+kable(output,caption = "Logistic regression estimates")
+
+```
+
+
+```{r echo=TRUE}
+# likelihood ratio test
+reduced.model <- glm(Purchase ~ 1, data=Customerdata, family = "binomial")
+kable(xtable(anova(reduced.model, model, test = "Chisq")),caption = "Likelihood ratio test")
+
+```
+
+## Predicting probabilities
+
+
+```{r}
+# calculate logit probabilities for each individual in the data set
+Customerdata$Base.Probability <- predict(model, Customerdata, type="response")
+kable(head(Customerdata,5),row.names = TRUE)
+
+```
+
+## Predicting behavior
+
+ 
+```{r}
+# purchase vs. no purchase <-> p>0.5 or p<0.5
+Customerdata$Predicted.Purchase <- 1*(Customerdata$Base.Probability>=0.5)
+kable(head(Customerdata,5),row.names = TRUE)
+
+```
+
+## Evaluating the model
+
+
+```{r}
+confusionMatrix(factor(Customerdata$Predicted.Purchase),factor(Customerdata$Purchase),positive = "1")
+
+```
+
+
+
