@@ -54,3 +54,9 @@ I also created a report comparing the budget, forecast and actual expenses of th
 
 <img src="https://github.com/chedelino/PortfolioProject/blob/main/Financial%20Reports%20in%20PowerBI/IT%20Spend%20Report/Headlines.png" width="500">
 
+
+### 7- [Customer Logistic Regression](https://github.com/chedelino/PortfolioProject/tree/main/Customer%20Logistic%20Regression)
+
+This project shows how to estimate a simple binary choice model, interpret it, and use it to make predictions about consumer behavior. 
+
+
